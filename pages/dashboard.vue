@@ -7,7 +7,7 @@
           <mini-statistic
             icon="fa fa-facebook"
             title="100+"
-            sub-title="Likes"
+            sub-title="leku dongs"
             color="indigo"
           >
           </mini-statistic>
